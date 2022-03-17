@@ -42,7 +42,6 @@ public class MouseDrag : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDra
     public void OnEndDrag(PointerEventData eventData)
     {
         Debug.Log("End Drag");
-        //Implement your funtionlity here
     }
 
     /// <summary>
